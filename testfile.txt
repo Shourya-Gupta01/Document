@@ -1,0 +1,10 @@
+this is a text file
+
+I deleted the below line.
+
+Url test case
+1 https://download.gnome.org/binaries/win64/gedit/
+2 172.16.99.11
+3 https://performancemanager5.successfactors.eu/sf/pmreviews?bplte_company=SAP#/
+4 172.16.99.11/test/html
+5 https://download.gnome.org.sap
