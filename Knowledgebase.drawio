@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.4.0">
   <diagram name="Page-1" id="N5dc4-sPDIcwlnXRgWk8">
-    <mxGraphModel dx="1220" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="217" dy="80" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,19 +45,34 @@
           <mxGeometry height="50" width="50" x="460" y="30" as="geometry" />
         </mxCell>
         <mxCell id="QMYTubdBxrRH71rwbWJ_-29" parent="QMYTubdBxrRH71rwbWJ_-5" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=UI5_flexibility_for_key_users" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="247" y="290" as="geometry" />
+          <mxGeometry height="50" width="50" x="247" y="329" as="geometry" />
         </mxCell>
         <mxCell id="QMYTubdBxrRH71rwbWJ_-40" parent="QMYTubdBxrRH71rwbWJ_-5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" value="&lt;font face=&quot;arial&quot;&gt;UI5 chatbot&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;frontend&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="234" y="337" as="geometry" />
+          <mxGeometry height="40" width="80" x="234" y="376" as="geometry" />
         </mxCell>
         <mxCell id="QMYTubdBxrRH71rwbWJ_-28" parent="QMYTubdBxrRH71rwbWJ_-5" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_AI_Core" value="" vertex="1">
           <mxGeometry height="50" width="50" x="357" y="30" as="geometry" />
         </mxCell>
         <mxCell id="QMYTubdBxrRH71rwbWJ_-41" parent="QMYTubdBxrRH71rwbWJ_-5" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Destination_service" value="" vertex="1">
-          <mxGeometry height="50" width="50" x="357" y="170" as="geometry" />
+          <mxGeometry height="50" width="50" x="435" y="170" as="geometry" />
         </mxCell>
         <mxCell id="QMYTubdBxrRH71rwbWJ_-42" parent="QMYTubdBxrRH71rwbWJ_-5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" value="&lt;font face=&quot;arial&quot;&gt;Destination&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="80" x="343" y="220" as="geometry" />
+          <mxGeometry height="40" width="80" x="421" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYTubdBxrRH71rwbWJ_-43" parent="QMYTubdBxrRH71rwbWJ_-5" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#0070F2;fillColor=#EBF8FF;fontColor=#266f3a;strokeWidth=1.5;" value="&lt;p style=&quot;line-height: 114%;&quot;&gt;&lt;font color=&quot;#0070f2&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;&quot;&gt;User query&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="16" width="72.99" x="320" y="187" as="geometry" />
+        </mxCell>
+        <mxCell id="QMYTubdBxrRH71rwbWJ_-44" edge="1" parent="QMYTubdBxrRH71rwbWJ_-5" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0070F2;strokeWidth=1.5;" target="QMYTubdBxrRH71rwbWJ_-43" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="195" as="sourcePoint" />
+            <mxPoint x="356" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QMYTubdBxrRH71rwbWJ_-45" edge="1" parent="QMYTubdBxrRH71rwbWJ_-5" source="QMYTubdBxrRH71rwbWJ_-43" style="endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0070F2;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="381" y="194.95000000000005" as="sourcePoint" />
+            <mxPoint x="421" y="194.95000000000005" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QMYTubdBxrRH71rwbWJ_-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Business User&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="16" y="336" as="geometry" />
